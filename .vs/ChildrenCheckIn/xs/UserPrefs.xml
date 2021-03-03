@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5AF2A2B2-7127-4F6C-853D-3EBA1BC04401}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChildrenCheckIn/Controllers/ChildController.cs">
+    <Files>
+      <File FileName="ChildrenCheckIn/Controllers/ChildController.cs" Line="107" Column="1" />
+      <File FileName="ChildrenCheckIn/Models/Child.cs" />
+      <File FileName="ChildrenCheckIn/ChildContext.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChildrenCheckIn" expanded="True">
+            <Node name="ChildrenCheckIn" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ChildController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChildrenCheckIn PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
